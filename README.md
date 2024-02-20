@@ -1,16 +1,20 @@
-### Hi there 👋
+# Biodata
 
-<!--
-**farahafnana/farahafnana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Informasi Pribadi
+- **Nama:** [Farah Afnana Dianisa Zulfa]
+- **Tanggal Lahir:** [21-08-2008]
+- **Tempat Lahir:** [Pacitan]
+- **Alamat:** [Pacitan, Jawa Timur]
+- **Email:** [zulfafarah9@gmail.com]
+  
 
-Here are some ideas to get you started:
+## Pendidikan
+- **SMP:** [SMP IT AR-RAHMAH PACITAN]
+- **SMA:** [SMA SAINS AL-QUR,AN WAHID HASYIM]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Hobi
+- **pertama:** [Bersepeda]
+- **kedua:** [Membaca Buku]
+
+
